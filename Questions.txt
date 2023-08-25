@@ -1,0 +1,63 @@
+Certainly, here are some important coding questions on arrays and strings that are frequently asked in interviews:
+
+1. **Two Sum:**
+   Given an array of integers and a target sum, find two numbers that add up to the target sum.
+
+2. **Reverse String:**
+   Reverse a given string without using any extra space.
+
+3. **Valid Palindrome:**
+   Determine if a given string is a palindrome, considering only alphanumeric characters and ignoring cases.
+
+4. **Rotate Array:**
+   Rotate an array to the right by a given number of steps.
+
+5. **Maximum Subarray Sum:**
+   Find the contiguous subarray with the largest sum in an array.
+
+6. **Remove Duplicates from Sorted Array:**
+   Remove duplicates from a sorted array and return the new length.
+
+7. **Move Zeroes:**
+   Move all zeroes to the end of the array while maintaining the relative order of other elements.
+
+8. **Longest Common Prefix:**
+   Find the longest common prefix string amongst an array of strings.
+
+9. **Valid Anagram:**
+   Check if two given strings are anagrams of each other.
+
+10. **Container With Most Water:**
+    Given an array of non-negative integers representing the heights of bars, find the maximum area of water that can be trapped between two bars.
+
+11. **String to Integer (atoi):**
+    Implement the `atoi` function that converts a string to an integer.
+
+12. **Longest Substring Without Repeating Characters:**
+    Find the length of the longest substring without repeating characters.
+
+13. **Group Anagrams:**
+    Group anagrams together from a list of strings.
+
+14. **Product of Array Except Self:**
+    Given an array `nums`, return an array `output` such that `output[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
+
+15. **Minimum Size Subarray Sum:**
+    Given an array of positive integers and a target sum, find the minimum length of a contiguous subarray whose sum is at least the target sum.
+
+16. **Valid Parentheses:**
+    Determine if a given string containing only parentheses, brackets, and curly braces is valid.
+
+17. **3Sum:**
+    Find all unique triplets in the array that sum up to the target value.
+
+18. **String Compression:**
+    Compress a string by replacing repeated characters with the character followed by the count.
+
+19. **Subarray with Zero Sum:**
+    Given an array of integers, find if there's a subarray with a sum equal to zero.
+
+20. **First Missing Positive:**
+    Given an unsorted integer array, find the smallest missing positive integer.
+
+These coding questions cover various aspects of arrays and strings, ranging from manipulation to searching and problem-solving. Practicing these questions will help you build a strong foundation in problem-solving and prepare you for coding interviews.
