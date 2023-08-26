@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A9FCE367-F1DD-43F1-9FF9-7B1F3D89D256}</ProjectGuid>
+    <ProjectGuid>{9852B620-BD56-4789-8747-C001472CA788}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GroupingAnd_Aggregation</RootNamespace>
-    <AssemblyName>GroupingAnd Aggregation</AssemblyName>
+    <RootNamespace>Joining_and_Combining2</RootNamespace>
+    <AssemblyName>Joining and Combining2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Order.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
