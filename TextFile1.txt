@@ -1,0 +1,50 @@
+Certainly, LINQ (Language Integrated Query) is an important topic in programming, particularly in C#. Here is a list of important coding questions related to LINQ that can help you practice and master this concept:
+
+1. **Basic LINQ Operations:**
+   - Write a LINQ query to filter a list of numbers and retrieve only the even numbers.
+   - Find the sum of all elements in a collection using LINQ.
+   - Retrieve distinct elements from a list using LINQ.
+
+2. **Filtering and Projection:**
+   - Given a list of strings, filter out strings with a length less than a certain value using LINQ.
+   - Write a LINQ query to retrieve the names of employees whose salary is above a certain threshold.
+   - Transform a list of integers into a list of their squares using LINQ projection.
+
+3. **Sorting and Ordering:**
+   - Sort a list of strings in ascending order using LINQ.
+   - Order a list of objects by a specific property using LINQ.
+   - Write a LINQ query to find the top N highest scores from a list of student objects.
+
+4. **Grouping and Aggregation:**
+   - Group a list of products by their categories using LINQ.
+   - Calculate the average salary of employees within each department using LINQ.
+   - Retrieve the department with the highest number of employees using LINQ aggregation.
+
+5. **Joining and Combining:**
+   - Join two lists of objects based on a common property using LINQ.
+   - Retrieve a list of orders along with their corresponding customer names using LINQ joins.
+   - Combine two lists and remove duplicates using LINQ's Union or Distinct methods.
+
+6. **Nested Queries and Subqueries:**
+   - Find all customers who have placed at least one order using a nested LINQ query.
+   - Retrieve products that are in stock and have a certain price using a LINQ subquery.
+   - Write a LINQ query to find customers who have made orders exceeding a specific total amount.
+
+7. **Advanced LINQ Concepts:**
+   - Implement a custom LINQ extension method for filtering.
+   - Use the "let" keyword to improve the readability of a complex LINQ query.
+   - Utilize the "into" keyword to perform additional operations within a LINQ query.
+
+8. **Error Handling and Null Handling:**
+   - Handle null values safely in a LINQ query when accessing properties.
+   - Write a LINQ query to retrieve items from a list while handling possible null references.
+
+9. **Deferred Execution and Immediate Execution:**
+   - Explain the concepts of deferred and immediate execution in LINQ.
+   - Provide examples of when a LINQ query is executed immediately and when it's deferred.
+
+10. **Performance and Optimization:**
+    - Discuss ways to optimize LINQ queries for better performance.
+    - Compare the performance of different LINQ operations (e.g., Where vs. FirstOrDefault) on large datasets.
+
+Remember that practicing these questions and concepts will help you become more proficient in using LINQ effectively in your programming projects.
