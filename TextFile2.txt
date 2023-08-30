@@ -1,0 +1,79 @@
+Certainly, here's a list of important coding questions that you should consider practicing before an interview. These questions cover a range of common topics and concepts that are often tested during technical interviews. Remember that practicing not only helps you become familiar with these concepts but also improves your problem-solving skills.
+
+**Arrays and Strings:**
+1. Two Sum
+2. Container With Most Water
+3. Longest Substring Without Repeating Characters
+4. Valid Parentheses
+5. Merge Intervals
+6. Rotate Array
+7. Reverse String
+8. String to Integer (Atoi)
+9. Longest Palindromic Substring
+10. Group Anagrams
+
+**Linked Lists:**
+1. Reverse Linked List
+2. Middle of the Linked List
+3. Merge Two Sorted Lists
+4. Remove Nth Node From End of List
+5. Linked List Cycle
+6. Intersection of Two Linked Lists
+
+**Trees and Graphs:**
+1. Maximum Depth of Binary Tree
+2. Symmetric Tree
+3. Validate Binary Search Tree
+4. Binary Tree Level Order Traversal
+5. Graph Traversal (BFS and DFS)
+6. Clone Graph
+7. Word Ladder
+
+**Sorting and Searching:**
+1. Binary Search
+2. Merge Sort
+3. Quick Sort
+4. Find First and Last Position of Element in Sorted Array
+5. Search in Rotated Sorted Array
+6. Kth Largest Element in an Array
+
+**Dynamic Programming:**
+1. Fibonacci Series (Classic and Memoization)
+2. Longest Increasing Subsequence
+3. 0/1 Knapsack Problem
+4. Edit Distance
+5. Coin Change
+
+**Recursion:**
+1. Factorial
+2. Nth Fibonacci Number
+3. Tower of Hanoi
+4. Subset Sum
+
+**Hashing:**
+1. Two Sum
+2. Three Sum
+3. Four Sum
+4. Longest Substring Without Repeating Characters
+
+**Greedy Algorithms:**
+1. Activity Selection
+2. Fractional Knapsack Problem
+3. Minimum Spanning Tree (Prim's or Kruskal's)
+
+**Backtracking:**
+1. N-Queens Problem
+2. Rat in a Maze Problem
+3. Letter Combinations of a Phone Number
+
+**Bit Manipulation:**
+1. Single Number
+2. Bitwise AND of Numbers Range
+
+**Miscellaneous:**
+1. Implement a Stack or Queue
+2. Implement a Hash Table
+3. Implement a Linked List
+4. Design Patterns (Singleton, Factory, Observer, etc.)
+
+Remember that understanding the underlying concepts and problem-solving techniques is more important than just memorizing solutions. Practice regularly, analyze different approaches, and strive to write clean and efficient code. Additionally, try to solve problems on coding platforms like LeetCode, HackerRank, and CodeSignal to gain exposure to a variety of problem types.
