@@ -84,7 +84,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPalindrome", "CheckPal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPalindromeLINQ", "CheckPalindromeLINQ\CheckPalindromeLINQ.csproj", "{0D43D2F9-AC42-4AE8-8A9E-11C6CB4B0027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{AF4E331E-DA18-42CA-A39C-AC14149FA7A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum_1", "TwoSum_1\TwoSum_1.csproj", "{AF4E331E-DA18-42CA-A39C-AC14149FA7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{31A3169E-45D2-465C-A924-836E3114560A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -216,6 +218,10 @@ Global
 		{AF4E331E-DA18-42CA-A39C-AC14149FA7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4E331E-DA18-42CA-A39C-AC14149FA7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4E331E-DA18-42CA-A39C-AC14149FA7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A3169E-45D2-465C-A924-836E3114560A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A3169E-45D2-465C-A924-836E3114560A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A3169E-45D2-465C-A924-836E3114560A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A3169E-45D2-465C-A924-836E3114560A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -244,6 +250,7 @@ Global
 		{74DD45F5-38B4-4657-A2A0-39DEE6309096} = {967FF2A5-295A-4F71-940F-DC583389D4C2}
 		{0D43D2F9-AC42-4AE8-8A9E-11C6CB4B0027} = {967FF2A5-295A-4F71-940F-DC583389D4C2}
 		{AF4E331E-DA18-42CA-A39C-AC14149FA7A6} = {9F8BDCFE-E8DD-41E5-AA32-A3A3294345E8}
+		{31A3169E-45D2-465C-A924-836E3114560A} = {967FF2A5-295A-4F71-940F-DC583389D4C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E54849B-B5A2-445D-8DE5-46D8571A9111}
